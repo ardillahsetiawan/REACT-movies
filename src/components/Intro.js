@@ -6,8 +6,8 @@ const Intro = () => {
       <Container className="text-white d-flex justify-content-center align-items-center">
         <Row>
           <Col>
-            <div className="title">WELCOME</div>
-            <div className="title">REACTFILMS</div>
+            <div className="title">WELCOME TO</div>
+            <div className="title">REACT MOVIES</div>
             <div className="introButton mt-4 text-center">
               <Button variant="dark" href="#trending">
                 ALL LIST
